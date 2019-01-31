@@ -1,4 +1,4 @@
-#Mongoose Explain
+# Mongoose Explain
 
 Mongoose is very undocumented in how to explain queries.  
 Look at the link below for some details about how to use this library and how to index more efficiently
